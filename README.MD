@@ -3,7 +3,7 @@
 #### Quebra-Cabeças:
 #####
 - Dois Corações.
-![alt text](VideoCapture_20240503-155137.jpg)
+![alt text](Imagens/VideoCapture_20240503-155137.jpg)
 <video controls src="20240503_145500-1.mp4" title="Title"></video>
 - Dois Triângulos
 ![alt text](VideoCapture_20240503-155154-2.jpg)

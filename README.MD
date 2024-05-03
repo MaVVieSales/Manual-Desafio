@@ -1,11 +1,17 @@
-# Meu Perfil
-### Estudo Desenvolvimento de Sistemas no Senai de Presidente Prudente.
-#### Curiosidades sobre mim:
+# Tutoriais dos Desafios Realizados
+### Feito por: Maria Vitória, Eduarda Scaliz, Guilherme da Conceição e Igor Espósito.
+#### Quebra-Cabeças:
 #####
-- _Ma Vie_, no Francês, significa "Minha Vida".
- - Gosto de ler, comer doces e assistir séries no meu tempo livre (quase nunca) <3
-- Geralmente, é possível me encontrar na biblioteca (onde tem ar condicionado), no shopping (onde tem sorvete e ar condicionado) ou no lugar mais alto do Senai (onde tem bastante vento).
-- Ultimamente, tenho estudado sobre o Abstracionismo.
-
-![alt text](https://3.bp.blogspot.com/_kB1pDXsEaE0/TRzcI5lyazI/AAAAAAAAF-E/F4uHSDWM224/s1600/red+tree+-+Mondrian.jpg)
-#### Árvore vermelha (1910), de Piet Mondrian.
+- Dois Corações.
+![alt text](VideoCapture_20240503-155137.jpg)
+<video controls src="20240503_145500-1.mp4" title="Title"></video>
+- Dois Triângulos
+![alt text](VideoCapture_20240503-155154-2.jpg)
+<video controls src="20240503_134337-1.mp4" title="Title"></video>
+- Dois G's
+![alt text](VideoCapture_20240503-155219.jpg)
+<video controls src="20240503_142818-1.mp4" title="Title"></video>
+- Dois Bonequinhos
+![alt text](VideoCapture_20240503-155203.jpg)
+<video controls src="20240503_142137-1.mp4" title="Title"></video>
+<video controls src="20240503_145750-1.mp4" title="Title"></video>

@@ -5,7 +5,7 @@
 #####
 - Dois Corações.
 ![alt text](Imagens/VideoCapture_20240503-155137.jpg)
-<video controls src="Imagens/20240503_145500-1.mp4" title="Title"></video>
+<video controls autoplay muted src="Imagens/20240503_145500-1.mp4" title="Title"></video>
 - Dois Triângulos.
 ![alt text](Imagens/VideoCapture_20240503-155154.jpg)
 <video controls src="Imagens/20240503_134337-1.mp4" title="Title"></video>
